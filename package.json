@@ -1,0 +1,19 @@
+{
+    "name": "Dictionary",
+    "version": "1.0.0",
+    "description": "This will be a dictionary app - just a try with react",
+    "author": "se",
+    "license": "MIT",
+    "devDependencies": {
+        "express": "4.14.0",
+        "open": "0.0.5",
+        "babel-cli": "6.16.0",
+        "babel-core": "6.17.0",
+        "babel-loader": "6.2.5",
+        "babel-preset-latest": "6.16.0",
+        "babel-register": "6.16.3"
+    },
+    "scripts": {
+        "start": "babel-node buildScripts/server.js"
+    }
+}
